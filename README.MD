@@ -1,4 +1,4 @@
-#MERCI D'AVOIR ÉCOUTÉ NOTRE VIDÉO
+MERCI D'AVOIR ÉCOUTÉ NOTRE VIDÉO
 
 > Tu peux regarder chaque branch, elles représentent chacune une vidéo.
 
